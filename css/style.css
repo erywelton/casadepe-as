@@ -1,0 +1,67 @@
+ul{
+    background-color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    border-radius: 10px 28px;
+}
+ul a:hover{
+    border-radius: 10px 26px;
+    background-color:rgb(21,105 , 214);
+}
+#novalogo, #novalogo1{
+    width: 200px;
+    height: 50px;
+}
+#produtoos{
+    color: white;
+    background-color: rgb(21,105 , 214);
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px 26px;
+    cursor: pointer;
+}
+.quems{
+    color: rgb(21, 105, 214);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#quemum{
+    color: white;
+    background-color: rgb(21, 105, 214);
+    font-size: 30px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#serv{
+    border-radius: 10px 26px;
+    color: white;
+    background-color: rgb(21, 105, 214);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    cursor: pointer;
+}
+.servfoto{
+    padding: 8px 10px;
+    margin: 5;
+}
+#bum, #bum1, #bum2, #bum3, #bum4, #bum5, #bum6, #bum7, #bum8, #bum9, #bum10, #bum11{
+    border-radius: 10px 26px;
+    background-color: blue;
+}
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8{
+    border-radius: 10px 26px;
+}
+#b1 {
+    background-color: red;
+}
+#s1, #s2 {
+    border-radius: 10px 26px;
+}
+#s1{
+    background-color: red;
+    
+}
